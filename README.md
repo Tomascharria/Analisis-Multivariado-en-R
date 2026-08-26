@@ -1,2 +1,2 @@
 # Analisis-Multivariado
-Proyecto Analisis Multivariado R
+Analisis Multivariado R
